@@ -1,0 +1,1 @@
+JavaScript is a high-level dynamic programming language. JavaScript is popular on the Internet and works with popular web searches such as Google Chrome, Internet Explorer, Mozilla Firefox, Netscape and Opera. JavaScript code can be embedded in web pages using SCRIPT tags.
