@@ -4,7 +4,7 @@
 
 - Enter to Translate folder
 
-- in that folder, open a terminal and type node index.js
+- in that folder, open a terminal then type npm install to install the required dependencies and type node index.js
 
 - then select 1 or 2
 
